@@ -10,7 +10,7 @@ git clone
 ~~~
 
 ## Usage
-~~~
+~~~ruby
 require_relative "Selection/Selection.rb"
 
 def learn_about_animals
