@@ -6,7 +6,7 @@ Ruby 3.2.3
 
 ## Install
 ~~~
-git clone
+git clone https://github.com/BequestDeCendresStudios/Selection.git
 ~~~
 
 ## Usage
