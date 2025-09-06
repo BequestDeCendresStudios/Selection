@@ -30,3 +30,7 @@ end
 learn_about_animals
 3.times do reassess_assertions end
 ~~~
+
+This can be used in tandem with my AntiCheat system:
+
+[Bequest Anticheat](https://github.com/BequestDeCendresStudios/BequestAntiCheat.git)
